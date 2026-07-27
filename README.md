@@ -180,15 +180,15 @@ COHERE_API_KEY = "tu_clave_aqui"
 
 **Pantalla de inicio**
 
-![Pantalla de inicio](evidencias/01-inicio.png)
+![Pantalla de inicio](evidencias/Captura%20de%20pantalla%202026-07-26%20233143.png)
 
 **Respuesta sobre calificaciones**
 
-![Calificaciones](evidencias/02-calificaciones.png)
+![Calificaciones](evidencias/Captura%20de%20pantalla%202026-07-26%20230709.png)
 
 **Respuesta sobre becas**
 
-![Becas](evidencias/03-becas.png)
+![Becas](evidencias/Captura%20de%20pantalla%202026-07-26%20230735.png)
 
 ---
 
