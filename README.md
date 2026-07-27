@@ -64,15 +64,15 @@ AcademiaX Virtual Agent permite a estudiantes y afiliados consultar en lenguaje 
 
 ## 🛠️ Tecnologías
 
-| Componente     | Tecnología                                      |
-|----------------|-------------------------------------------------|
-| UI             | Streamlit                                       |
-| LLM            | Cohere `command-a-03-2025`                      |
-| RAG Framework  | LangChain (classic + community)                 |
-| Vector Store   | FAISS CPU                                       |
-| Embeddings     | `sentence-transformers/all-MiniLM-L6-v2` (local)|
-| PDF Loader     | PyPDF + LangChain                               |
-| Variables env  | python-dotenv                                   |
+| Componente     | Tecnología                                       |
+|----------------|--------------------------------------------------|
+| UI             | Streamlit                                        |
+| LLM            | Cohere `command-a-03-2025`                       |
+| RAG Framework  | LangChain (classic + community)                  |
+| Vector Store   | FAISS CPU                                        |
+| Embeddings     | `sentence-transformers/all-MiniLM-L6-v2` (local) |
+| PDF Loader     | PyPDF + LangChain                                |
+| Variables env  | python-dotenv                                    |
 
 ---
 
@@ -172,21 +172,24 @@ COHERE_API_KEY = "tu_clave_aqui"
 5. En **Advanced settings → Secrets**, agrega tu `COHERE_API_KEY`.
 6. Clic en **"Deploy"** ✅
 
-**🔗 App desplegada:** *https://desafioalura-kakqk43agmzl2bau3ibgsr.streamlit.app/*
+**🔗 App desplegada:** [https://desafioalura-kakqk43agmzl2bau3ibgsr.streamlit.app](https://desafioalura-kakqk43agmzl2bau3ibgsr.streamlit.app)
+
+---
 
 ## 📸 Evidencia del deploy
 
 **Pantalla de inicio**
 
-![Pantalla de inicio](evidencias/Captura de pantalla 2026-07-26 233143.png)
+![Pantalla de inicio](evidencias/01-inicio.png)
 
 **Respuesta sobre calificaciones**
 
-![Calificaciones](evidencias/Captura de pantalla 2026-07-26 230709.png)
+![Calificaciones](evidencias/02-calificaciones.png)
 
 **Respuesta sobre becas**
 
-![Becas](evidencias/Captura de pantalla 2026-07-26 230735.png)
+![Becas](evidencias/03-becas.png)
+
 ---
 
 ## 💬 Ejemplos de uso
