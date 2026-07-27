@@ -174,6 +174,19 @@ COHERE_API_KEY = "tu_clave_aqui"
 
 **🔗 App desplegada:** *https://desafioalura-kakqk43agmzl2bau3ibgsr.streamlit.app/*
 
+## 📸 Evidencia del deploy
+
+**Pantalla de inicio**
+
+![Pantalla de inicio](evidencias/Captura de pantalla 2026-07-26 233143.png)
+
+**Respuesta sobre calificaciones**
+
+![Calificaciones](evidencias/Captura de pantalla 2026-07-26 230709.png)
+
+**Respuesta sobre becas**
+
+![Becas](evidencias/Captura de pantalla 2026-07-26 230735.png)
 ---
 
 ## 💬 Ejemplos de uso
