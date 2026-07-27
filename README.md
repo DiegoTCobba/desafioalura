@@ -172,7 +172,7 @@ COHERE_API_KEY = "tu_clave_aqui"
 5. En **Advanced settings → Secrets**, agrega tu `COHERE_API_KEY`.
 6. Clic en **"Deploy"** ✅
 
-**🔗 App desplegada:** *(agregar enlace público una vez disponible)*
+**🔗 App desplegada:** *https://desafioalura-kakqk43agmzl2bau3ibgsr.streamlit.app/*
 
 ---
 
